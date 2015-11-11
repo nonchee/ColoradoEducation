@@ -1,6 +1,6 @@
 # ColoradoEducation
 
-### Nancy Huang, Daniel Kang, Eunice Lee
+### Nancy Huang, Daniel Kang, Eunice Park
 
 ## Data
 Data : State of public education of Colorado, supplied by Kaggle
