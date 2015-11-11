@@ -1,0 +1,45 @@
+Name in Data,Cleaned Name,Values/Description
+SchoolNumber,SchoolNumber,Integer of School (Unique)
+EMH,EMH,"E(Elementary),M(Middle),H(High)"
+SchoolName,SchoolName,String of School Name
+DistrictNumber,DistrictNumber,Integer of District
+DistrictName,DistrictName,String of District Name
+EMH_combined,EMHcombined,"EM / MH/ EMH (Combination of E,M,H to show which grades this school has or empty if only one school)"
+AEC_10,AlternativeSchool,"1 - 2 (1 : Yes, 2 : No)"
+CharterorOnline,CharterOrOnline,NOT IMPORTANT
+LowestGrade,LowestGradeLevel,NOT IMPORTANT (Lowest grade level offered in school)
+HighestGrade,HighestGradeLevel,NOT IMPORTANT (Highest grade level offered in school)
+INITIAL_PlanType,InitialPlanType,NOT IMPORTANT
+FINAL_PlanType,FinalPlanType,NOT IMPORTANT
+Notes,Notes,NOT IMPORTANT
+EMH_2lvl,EMH_2Lvl,NOT IMPORTANT
+LT100pnts,LT100Pnts,NOT IMPORTANT
+School_Grade,SchoolGrade,"1 - 13 (13 being A+, 1 being F)"
+rank_tot,RankTotal,Total ranking out of all schools
+Overall_ACH_Grade,OverallAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Read_Ach_Grade,ReadingAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Math_Ach_Grade,MathAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Write_Ach_Grade,WritingAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Sci_Ach_Grade,ScienceAcheivedGrade,"1 - 13 (13 being A+, 1 being F)"
+Overall_Weighted_Growth_Grade,OverallGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Read_Growth_Grade,ReadingGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Math_Growth_Grade,MathGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Write_Growth_Grade,WritingGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+SPF_PS_IND_GRAD_RATE,GraduationRate,Percent
+rate_at.5_chng_ach,ProficiencyTrend,"1 - 3 (1 : Arrow Down, 2 : Arrow Flat, 3 : Arrow Up)"
+rate_at.5_chng_growth,GrowthTrend,"1 - 3 (1 : Arrow Down, 2 : Arrow Flat, 3 : Arrow Up)"
+pct_pts_chnge_.5,OverallTrend,"1 - 3 (1 : Arrow Down, 2 : Arrow Flat, 3 : Arrow Up)"
+eng_yn,ACTEnglish,"1 - 2 (1 : Yes, 2 : No)"
+math_yn,ACTMath,"1 - 2 (1 : Yes, 2 : No)"
+read_yn,ACTReading,"1 - 2 (1 : Yes, 2 : No)"
+sci_yn,ACTScience,"1 - 2 (1 : Yes, 2 : No)"
+TOTAL,TotalStudents,Number of students
+PCT_AmInd,PercentAmericanIndian,Decimal
+PCT_Asian,PercentAsian,Decimal
+PCT_Black,PercentBlack,Decimal
+PCT_hisp,PercentHispanic,Decimal
+PCT_White,PercentWhite,Decimal
+PCT_PI,PercentPacificIslander,Decimal
+PCT_2ormore,PercentTwoOrMoreRace,Decimal
+X..FREE.AND.REDUCED,PercentFreeOrReducedLunch,Percent
+Remediation_AtLeastOne_Pct2010,RemediationRate,Percent

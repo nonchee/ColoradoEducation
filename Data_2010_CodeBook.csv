@@ -1,0 +1,37 @@
+Name,Values/Description
+SchoolNumber,Integer of School (Unique)
+EMH,E(Elementary) M(Middle) H(High)
+SchoolName,String of School Name
+DistrictNumber,Integer of District
+DistrictName,String of District Name
+EMHcombined,EM / MH/ EMH (Combination of E/M/H to show which grades this school has or empty if only one school)
+AlternativeSchool,1 - 2 (1 : Yes / 2 : No)
+SchoolGrade,1 - 13 (13 being A+  1 being F)
+RankTotal,Total ranking out of all schools
+OverallAchievedGrade,1 - 13 (13 being A+  1 being F)
+ReadingAchievedGrade,1 - 13 (13 being A+  1 being F)
+MathAchievedGrade,1 - 13 (13 being A+  1 being F)
+WritingAchievedGrade,1 - 13 (13 being A+  1 being F)
+ScienceAcheivedGrade,1 - 13 (13 being A+  1 being F)
+OverallGrowthGrade,1 - 13 (13 being A+  1 being F)
+ReadingGrowthGrade,1 - 13 (13 being A+  1 being F)
+MathGrowthGrade,1 - 13 (13 being A+  1 being F)
+WritingGrowthGrade,1 - 13 (13 being A+  1 being F)
+GraduationRate,Percent
+ProficiencyTrend,1 - 3 (1 : Arrow Down 2 : Arrow Flat 3 : Arrow Up)
+GrowthTrend,1 - 3 (1 : Arrow Down 2 : Arrow Flat 3 : Arrow Up)
+OverallTrend,1 - 3 (1 : Arrow Down 2 : Arrow Flat 3 : Arrow Up)
+ACTEnglish,1 - 2 (1 : Yes /  2 : No)
+ACTMath,1 - 2 (1 : Yes /  2 : No)
+ACTReading,1 - 2 (1 : Yes /  2 : No)
+ACTScience,1 - 2 (1 : Yes /  2 : No)
+TotalStudents,Number of students
+PercentAmericanIndian,Percent
+PercentAsian,Percent
+PercentBlack,Percent
+PercentHispanic,Percent
+PercentWhite,Percent
+PercentPacificIslander,Percent
+PercentTwoOrMoreRace,Percent
+PercentFreeOrReducedLunch,Percent
+RemediationRate,Percent

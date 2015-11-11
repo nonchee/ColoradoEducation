@@ -1,0 +1,45 @@
+Name in Data,Cleaned Name,Values
+SchoolNumber,SchoolNumber,
+EMH,EMH,"E(Elementary),M(Middle),H(High)"
+SchoolName,SchoolName,
+DistrictNumber,DistrictNumber,
+DistrictName,DistrictName,
+EMH_combined,EMHcombined,"Combination of E,M,H to show which grades this school has or empty if only one school"
+AEC_10,AlternativeSchool,1 (Yes) / 2 (No)
+CharterorOnline,CharterOrOnline,NOT IMPORTANT
+LowestGrade,LowestGradeLevel,NOT IMPORTANT (Lowest grade level offered in school)
+HighestGrade,HighestGradeLevel,NOT IMPORTANT (Highest grade level offered in school)
+INITIAL_PlanType,InitialPlanType,NOT IMPORTANT
+FINAL_PlanType,FinalPlanType,NOT IMPORTANT
+Notes,Notes,NOT IMPORTANT
+EMH_2lvl,EMH_2Lvl,NOT IMPORTANT
+LT100pnts,LT100Pnts,NOT IMPORTANT
+School_Grade,SchoolGrade,"1 - 13 (13 being A+, 1 being F)"
+rank_tot,RankTotal,Total ranking out of all schools
+Overall_ACH_Grade,OverallAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Read_Ach_Grade,ReadingAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Math_Ach_Grade,MathAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Write_Ach_Grade,WritingAchievedGrade,"1 - 13 (13 being A+, 1 being F)"
+Sci_Ach_Grade,ScienceAcheivedGrade,"1 - 13 (13 being A+, 1 being F)"
+Overall_Weighted_Growth_Grade,OverallGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Read_Growth_Grade,ReadingGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Math_Growth_Grade,MathGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+Write_Growth_Grade,WritingGrowthGrade,"1 - 13 (13 being A+, 1 being F)"
+SPF_PS_IND_GRAD_RATE,,
+rate_at.5_chng_ach,,
+rate_at.5_chng_growth,,
+pct_pts_chnge_.5,,
+eng_yn,,
+math_yn,,
+read_yn,,
+sci_yn,,
+TOTAL,,
+PCT_AmInd,,
+PCT_Asian,,
+PCT_Black,,
+PCT_hisp,,
+PCT_White,,
+PCT_PI,,
+PCT_2ormore,,
+X..FREE.AND.REDUCED,,
+Remediation_AtLeastOne_Pct2010,,
